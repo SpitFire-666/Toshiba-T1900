@@ -4,6 +4,14 @@
 
 - Trackball connector/interface
 
+# Hard drive
+
+- CP-2124 Conner 120MB 2.5-Inch 17mm IDE Notebook Hard Drive
+
+![image](https://user-images.githubusercontent.com/38451588/156491386-d5c623de-c9ef-4468-9539-4d9eb9a41c10.png)
+
+
+# Unverified/unsorted info
 
 When the laptop is running from the AC adaptor, you press the switch to turn it on. After only a few seconds, it shuts itself off. The DC IN light may flash. If the laptop has a status LCD, it may display a P30 or P31 error.
 
