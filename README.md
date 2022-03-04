@@ -30,7 +30,9 @@ http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%
 - Unplug screen display lead and sensor cable
 - Unplug PS/2 flat cable
 - 1x screw next to spkr
-- 
+- Disconnect battery
+- Disconnect PJ2
+- Remove the small screw from the PCMCIA connector
 
 # Unverified/unsorted info
 
