@@ -5,6 +5,11 @@
 - Trackball connector/interface
 - Pop-out feet
 
+# Trackball
+
+![image](https://user-images.githubusercontent.com/38451588/156770488-37c7c957-8714-483b-a736-505fa913abb9.png)
+  
+
 # Brochure
 
 http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%20-%20Flyer.pdf
@@ -14,6 +19,17 @@ http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%
 - CP-2124 Conner 120MB 2.5-Inch 17mm IDE Notebook Hard Drive
 
 ![image](https://user-images.githubusercontent.com/38451588/156491386-d5c623de-c9ef-4468-9539-4d9eb9a41c10.png)
+
+
+# RAM/Memory
+
+- 4MB standard (soldered on)
+
+## RAM Upgrades
+
+- RAM is added via a card (below is 16mb PA2014U):
+
+![image](https://user-images.githubusercontent.com/38451588/156770009-b5a31e92-b70c-4d89-8a4e-81fec65d9db3.png)
 
 
 # Disassembly
