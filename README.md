@@ -3,6 +3,11 @@
 # Interesting features
 
 - Trackball connector/interface
+- Pop-out feet
+
+# Brochure
+
+http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%20-%20Flyer.pdf
 
 # Hard drive
 
@@ -10,6 +15,22 @@
 
 ![image](https://user-images.githubusercontent.com/38451588/156491386-d5c623de-c9ef-4468-9539-4d9eb9a41c10.png)
 
+
+# Disassembly
+
+- Remove 4 screws
+- remove screw cap and 10mm screw above keyboard
+- pop off cover
+- unplug and set aside keyboard
+- 4x screws for KB shield
+- 6x 10mm screws top shield incl black earth lead
+- 1x battery screw (RHS). Can now move battery out of the way and slide out HDD
+- 2x 12mm screw next to the HDD connector
+- 1x screw for hinge (RHS)
+- Unplug screen display lead and sensor cable
+- Unplug PS/2 flat cable
+- 1x screw next to spkr
+- 
 
 # Unverified/unsorted info
 
@@ -25,7 +46,13 @@ Once you have found the capacitor to replace, you need to remove the old one. Fo
 Now you need to get a replacement capacitor. The physical dimensions of the replacement will be very important, so you'll need to measure how big of a capacitor you can fit in your model. Since the original capacitor failed, the circuit apparently stresses this component, so it is probably a good idea to get a capacitor made for durability, with high permissible ripple current / low ESR. I used a 1000uF 6.3VDC Elna capacitor which I bought from Mouser (item 555-6.3V1000). It was 2cm tall and 8mm in diameter, with 3mm lead spacing, but I managed to fit it in. However, it was a difficult fit, so you may want to look at other capacitors if you don't think this one would fit in your model. I also recommend getting some replacement fuses in case you blow some of them. Somehow I managed to blow a 5 amp fuse on the lower board which connects to the battery. Later in my experimenting I managed to blow both 2 amp fuses on the upper system board. I replaced the 5 amp SMD fuses with Mouser part 5762-451005. They have 2 amp fuses also, part 5762-451002. Some models may require different fuses. You can look for them on the circuit boards. The fuses should have the current rating printed on the body, like 5A or 2A.
 
 
+# References
+
+https://www.manualslib.com/manual/916932/Toshiba-T1900-Series.html
+
 https://vobarian.com/toshibaProblem.html
 
+
+http://www.computinghistory.org.uk/det/13145/Toshiba-T1900C/
 
 
