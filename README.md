@@ -9,6 +9,10 @@
 
 ![image](https://user-images.githubusercontent.com/38451588/156770488-37c7c957-8714-483b-a736-505fa913abb9.png)
   
+# Battery
+
+![image](https://user-images.githubusercontent.com/38451588/156870880-9fcf778f-b965-4d5a-92fc-da179ddd72b6.png)
+
 
 # Brochure
 
@@ -21,6 +25,9 @@ http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%
 ![image](https://user-images.githubusercontent.com/38451588/156491386-d5c623de-c9ef-4468-9539-4d9eb9a41c10.png)
 
 
+![image](https://user-images.githubusercontent.com/38451588/156871034-6c435c60-d7ba-4b57-91ee-421a28ddbb28.png)
+
+
 # RAM/Memory
 
 - 4MB standard (soldered on)
@@ -31,8 +38,24 @@ http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%
 
 ![image](https://user-images.githubusercontent.com/38451588/156770009-b5a31e92-b70c-4d89-8a4e-81fec65d9db3.png)
 
+![image](https://user-images.githubusercontent.com/38451588/156870898-7c398e1d-2b40-4710-807b-a32bcc39f4b2.png)
+
+
+# Power Supply
+
+
+
+![image](https://user-images.githubusercontent.com/38451588/156871013-5e82f4d0-70b8-4883-a396-40c6e5b23597.png)
+
+
 
 # Disassembly
+
+![image](https://user-images.githubusercontent.com/38451588/156870931-00ed93e5-aae6-4acd-ad27-808b983a3353.png)
+
+
+
+
 
 - Remove 4 screws
 - remove screw cap and 10mm screw above keyboard
