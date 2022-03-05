@@ -50,6 +50,24 @@ http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%
 - Disconnect PJ2
 - Remove the small screw from the PCMCIA connector
 
+
+# Capacitors
+
+6.3V 2200uF
+
+25v 470uF
+
+10v? 220uF
+
+16v 120uF
+
+16v 56uF
+
+16v 120uF (duplicate?)
+
+16v 56uF (duplicate?)
+
+
 # Unverified/unsorted info
 
 When the laptop is running from the AC adaptor, you press the switch to turn it on. After only a few seconds, it shuts itself off. The DC IN light may flash. If the laptop has a status LCD, it may display a P30 or P31 error.
