@@ -49,6 +49,9 @@ http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%
 - Disconnect battery
 - Disconnect PJ2
 - Remove the small screw from the PCMCIA connector
+- Remove screw near reset button (long)
+- Remove screw near blue relay thingy (long)
+- Unplug floppy
 
 
 # Capacitors
