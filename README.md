@@ -43,7 +43,7 @@ http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%
 
 # Power Supply
 
-
+- 18v, barrel connector. Center positive
 
 ![image](https://user-images.githubusercontent.com/38451588/156871013-5e82f4d0-70b8-4883-a396-40c6e5b23597.png)
 
@@ -92,6 +92,10 @@ http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%
 16v 120uF (duplicate?)
 
 16v 56uF (duplicate?)
+
+6.3v 1000uF
+
+
 
 
 # Unverified/unsorted info
