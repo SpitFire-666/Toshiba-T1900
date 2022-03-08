@@ -11,14 +11,22 @@
   
 # Battery
 
+- 12 volt
+
 ![image](https://user-images.githubusercontent.com/38451588/156870880-9fcf778f-b965-4d5a-92fc-da179ddd72b6.png)
 
+# BIOS
+
+- Download from: http://www.minuszerodegrees.net/manuals/Toshiba/BIOS/Toshiba_bios.htm
+- Need a 720k floppy to perform an update
 
 # Brochure
 
 http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%20-%20Flyer.pdf
 
 # Hard drive
+
+Supports 80, 120 and 200 MB HDDs
 
 - CP-2124 Conner 120MB 2.5-Inch 17mm IDE Notebook Hard Drive
 
@@ -95,7 +103,19 @@ http://omolini.steptail.com/t3200sx/files/docs/Toshiba%20T1900%20T1950%20Series%
 
 6.3v 1000uF
 
+# Software
 
+Preloaded software including:
+
+- Toshiba Master Diskette Creator
+- DOS*.IMG MS-DOS 6.2 English disk 1-5
+- WIN*.IMG Windows 3.1 English disk 1-6
+- MAXT.IMG Toshiba Maxtime 2.0
+- DCBP.IMG Toshiba QuickPort Driver for Microsoft Ballpoint
+- PCMCIA.IMG Award PCMCIA CardWare V2.00
+- SVGA.IMG Toshiba Windows 3.X SVGA Display Drivers
+
+https://archive.org/details/t1950ctdiskimages
 
 
 # Unverified/unsorted info
