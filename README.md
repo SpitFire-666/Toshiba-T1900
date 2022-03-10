@@ -87,21 +87,17 @@ Supports 80, 120 and 200 MB HDDs
 
 # Capacitors
 
-6.3V 2200uF
+|  Capacitor      |Voltage        |Capacitance          |
+|--------|------|---------------|
+|C503| 25v            |470uF            |
+|C507     |            |            |
+|C509 |6.3v|2200uF|
+| C511| 6.3v | |
+| C521| 16v | 120uF |
+| ?| 6.3v| 1000uF |
+| | | |
 
-25v 470uF
 
-10v? 220uF
-
-16v 120uF
-
-16v 56uF
-
-16v 120uF (duplicate?)
-
-16v 56uF (duplicate?)
-
-6.3v 1000uF
 
 # Software
 
